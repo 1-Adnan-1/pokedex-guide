@@ -14,5 +14,5 @@ Bu proje kullanıcıların bir Pokémon listesini görüntülemesine ve belirli 
 - **CSS**
 - **JAVASCRİPT**
 
-## GİF
+## GİF
 ![ZightRecording2025-01-02at03 28 44PM-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/6f349fe9-960a-4f54-a7cb-ca9c9b13c0b8)
